@@ -5,7 +5,7 @@
  
  - [osTicket: Prerequisites and Installation](https://github.com/Dcraw14/OSTICKET-PREREQ)
  
- - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+ - [osTicket: Post-Installation Configuration](https://github.com/Dcraw14/osTicket-Post-Installation-Configuration)
  
  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
  
